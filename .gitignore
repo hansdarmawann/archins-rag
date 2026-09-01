@@ -33,6 +33,10 @@ wheels/
 .jupyter/
 jupyter_config.json
 
+# Environment variables
+.env
+.env.local
+
 # Data & Database
 data/raw/*
 data/*.db
